@@ -1,3 +1,0 @@
-arxivData.json filter=lfs diff=lfs merge=lfs -text
-papers.csv filter=lfs diff=lfs merge=lfs -text
-publications.csv filter=lfs diff=lfs merge=lfs -text
